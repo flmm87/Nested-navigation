@@ -2,7 +2,7 @@
 
 ## Overview
 
-#### Imagine a sleek mobile app designed to showcase Nested Navigation in React Native. 
+### Imagine a sleek mobile app designed to showcase Nested Navigation in React Native. 
 Developed during my studies as part of my pursuit of a junior role in mobile app development, this app serves as a demonstration of my proficiency in building complex navigation structures. While the app is currently inactive,
 it offers a glimpse into a user-friendly interface featuring a variety of food categories.
 Each category seamlessly expands to reveal a curated selection of delicious dishes, demonstrating the power and flexibility of nested navigation in React Native.
